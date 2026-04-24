@@ -143,8 +143,8 @@ jupyter notebook
 
 Full project documentation including system design, hardware schematics, model training methodology, and test results:
 
-- [Project Book (PDF)](docs/IDS_Book.pdf)
-- [Presentation Slides (PDF)](docs/IDS_Presentation.pdf)
+- [Project Book (PDF)](docs/book.pdf)
+- [Presentation Slides (PDF)](docs/safety-driving%20-system-presentation.pdf)
 
 ---
 
